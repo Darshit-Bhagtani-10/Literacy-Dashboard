@@ -2,13 +2,14 @@
 
 **By Darshit Bhagtani
 Bachelor of Science in Computer Science (Data Science Specialization)
+ 
 Project under the guidance of Prof. Siddharth Chandra
 Sardar Patel Institute of Technology, Mumbai**
 
 ## 📖 The Story Behind the Dashboard
 When I began this project as part of my coursework, I saw it as more than just another assignment. The dataset focused on literacy in Bihar and Rajasthan — regions that statistically trail behind in basic education metrics. What stood out to me wasn’t just the data, but the story behind the numbers.
 
-As someone passionate about using data for impact, I wanted to treat this project like a consultant would for a client in the public sector:
+My mentor wanted me to treat this project like a consultant would for a client in the public sector:
 - Start by asking the right questions
 - Use data to reveal the unseen
 - And end by delivering clear, action-oriented recommendations
@@ -16,7 +17,7 @@ As someone passionate about using data for impact, I wanted to treat this projec
 This was my chance to simulate a real business analyst engagement — using Tableau not only as a tool, but as a medium to bridge numbers with narrative.
 
 ## 🧠 My Role
-This was a solo effort carried out as an individual project under faculty mentorship. I independently:
+This was an effort carried out as an individual project under faculty mentorship. I independently:
 - Framed the analysis from a consulting mindset
 - Interpreted educational and demographic data
 - Designed and published a responsive Tableau dashboard
@@ -32,7 +33,7 @@ My goal was to:
 - Propose data-informed steps to improve literacy outcomes
 
 ## 📊 The Dashboard
-🎯 Live Dashboard: https://public.tableau.com/views/DashBoard_BAP_Exp6/Dashboard2
+🎯 Live Dashboard: https://public.tableau.com/app/profile/darshit.bhagtani7496/viz/LiteracyDashbaord_DarshitBhagtani/Dashboard2?publish=yes
 
 What it shows:
 - Age-wise breakdowns of school-age population (6–10, 11–13, 14–15)
@@ -65,13 +66,6 @@ This project became a turning point. I realized that being a good analyst isn’
 - Finding stories within raw data
 - Designing tools that non-technical stakeholders can use to take action
 
-## 📂 GitHub Repository Assets
-| File | Purpose |
-|------|---------|
-| Dashboard_Bihar_Rajasthan.twbx | Tableau packaged workbook |
-| README.md | Project overview and report |
-| screenshot.png | Visual preview of the dashboard |
-| summary.pdf | Portfolio-ready printable report (optional) |
 
 ## 🔚 Final Thoughts
 This dashboard wasn’t just a university assignment — it was an exercise in real-world thinking. It reflects my potential as a business analyst who combines technical skill with purpose-driven analysis.
@@ -79,7 +73,7 @@ This dashboard wasn’t just a university assignment — it was an exercise in r
 If you’re a recruiter, hiring manager, or fellow analyst, I’d love your feedback. This project reflects the mindset I bring to the table — curious, detail-oriented, and impact-focused.
 
 ## 🔗 Let’s Connect
-- 📬 darshitbhagtani@example.com
+- 📬 bhagtanidarshit01@gmail.com
 - 🔗 https://www.linkedin.com/in/darshitbhagtani
 - 📍 Actively seeking roles in Business Analytics, Strategy, or BI Consulting
 
